@@ -3908,7 +3908,7 @@
 - [RefactorSecurity/vscode-security-notes](https://github.com/RefactorSecurity/vscode-security-notes) - Create notes during a security code review in VSCode 📝 Import your favorite SAST tool findings 🛠️ and collaborate with others 🤝
 - [Zeus-Labs/ZeusCloud](https://github.com/Zeus-Labs/ZeusCloud) - Open Source Cloud Security
 - [SiriusScan/Sirius](https://github.com/SiriusScan/Sirius) - 
-- [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights
+- [jerlendds/osintbuddy](https://github.com/jerlendds/osintbuddy) - Node graphs, OSINT data mining,  and plugins. Connect unstructured and public data for transformative insights. The rewrite can be found @ osintbuddy/osintbuddy
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
 - [center-for-threat-informed-defense/attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow) - Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows f
 - [forensicxlab/VISION-ProcMon](https://github.com/forensicxlab/VISION-ProcMon) - A ProcessMonitor visualization application written in rust.
