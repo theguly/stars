@@ -131,6 +131,8 @@
 
 ## C 
 
+- [0xb4db01/xorvm](https://github.com/0xb4db01/xorvm) - Emulated CPU with custom ASM initially developed for XOR encryption
+- [cyberaz0r/thc-ssl-dos_mod](https://github.com/cyberaz0r/thc-ssl-dos_mod) - A fork of thc-ssl-dos that supports all SSL/TLS implementations, UDP (using DTLS), SOCKS5 proxy and both renegotiation and reconnect attacks. It also includes a docker lab to test the exploit.
 - [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
 - [JavaHammes/Z](https://github.com/JavaHammes/Z) - Z Anti-Anti-Debugger for Linux
 - [Willy-JL/MemSed](https://github.com/Willy-JL/MemSed) - 🔍 MEMory Search and EDit for Linux, inspired by Cheat Engine
@@ -2415,6 +2417,7 @@
 
 ## Python 
 
+- [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [skonik/docker-compose-diagram](https://github.com/skonik/docker-compose-diagram) - 🐳docker-compose + 🎨diagrams = docker-compose-diagram 🐳🎨
 - [CalGrimes/python-log-to-loki](https://github.com/CalGrimes/python-log-to-loki) - Loki quickstart with Docker with API build in python to send logs
 - [autoscrape-labs/pydoll](https://github.com/autoscrape-labs/pydoll) - Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions.
