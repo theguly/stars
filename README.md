@@ -1154,7 +1154,7 @@
 - [musana/CF-Hero](https://github.com/musana/CF-Hero) - CF-Hero is a reconnaissance tool that uses multiple data sources to discover the origin IP addresses of Cloudflare-protected web applications
 - [bnagy/afl-launch](https://github.com/bnagy/afl-launch) - Boring tool to launch multiple afl-fuzz instances
 - [bnagy/crashwalk](https://github.com/bnagy/crashwalk) - Bucket and triage on-disk crashes. OSX and Linux.
-- [cxnturi0n/convoC2](https://github.com/cxnturi0n/convoC2) - C2 infrastructure that allows Red Teamers to execute system commands on compromised hosts through Microsoft Teams.
+- [cxnturi0n/convoC2](https://github.com/cxnturi0n/convoC2) - C2 infrastructure over Microsoft Teams.
 - [glebarez/padre](https://github.com/glebarez/padre) - Blazing fast, advanced Padding Oracle exploit
 - [haxxm0nkey/azhunt](https://github.com/haxxm0nkey/azhunt) - Azure AD (Entra ID) enumeration tool. Find related domains and tenant information in a simple way.
 - [sensepost/go-out](https://github.com/sensepost/go-out) - ☄️ go-out - A Golang egress buster.
