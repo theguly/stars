@@ -1145,6 +1145,7 @@
 
 ## Go 
 
+- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
 - [RedTeamPentesting/keycred](https://github.com/RedTeamPentesting/keycred) - Generate and Manage KeyCredentialLinks
 - [Lissy93/who-dat](https://github.com/Lissy93/who-dat) - 🔎 A free no-CORS WHOIS/RDAP lookup API, for fetching domain registration info
@@ -1467,7 +1468,7 @@
 - [captainGeech42/findmal](https://github.com/captainGeech42/findmal) - A tool to find/download malware samples from various public repositories
 - [AmyangXYZ/AssassinGo](https://github.com/AmyangXYZ/AssassinGo) - An extensible and concurrency pentest framework in Go, also with WebGUI. Feel free to CONTRIBUTE!
 - [hahwul/dalfox](https://github.com/hahwul/dalfox) - 🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.
-- [tillson/git-hound](https://github.com/tillson/git-hound) - Reconnaissance tool for GitHub code search. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
+- [tillson/git-hound](https://github.com/tillson/git-hound) - Recon tool leveraging GitHub Code Search API. Scans for exposed API keys across all of GitHub, not just known repos and orgs.
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [milo2012/pathbrute](https://github.com/milo2012/pathbrute) - Pathbrute
 - [Ullaakut/cameradar](https://github.com/Ullaakut/cameradar) - Cameradar hacks its way into RTSP videosurveillance cameras
@@ -1855,7 +1856,7 @@
 
 ## Makefile 
 
-- [start/331](https://github.com/start/331) - A 3x3 pixel font with 1-bit color.
+- [start/331](https://github.com/start/331) - A 3x3 pixel font without animation.
 - [chainguard-dev/osquery-defense-kit](https://github.com/chainguard-dev/osquery-defense-kit) - Production-ready detection & response queries for osquery
 - [mrmoss/poovey](https://github.com/mrmoss/poovey) - Standard pam module backdoor.
 - [pevma/SEPTun-Mark-II](https://github.com/pevma/SEPTun-Mark-II) - Suricata Extreme Performance Tuning guide - Mark II
@@ -2049,7 +2050,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [bohops/UltimateWDACBypassList](https://github.com/bohops/UltimateWDACBypassList) - A centralized resource for previously documented WDAC bypass techniques
 - [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
-- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - A Unified Platform for Adversary Emulation and Red Team Operations
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 - [ionescu007/clfs-docs](https://github.com/ionescu007/clfs-docs) - Unofficial Common Log File System (CLFS) Documentation
 - [daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates](https://github.com/daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates) - Investigation about ACL abusing for Active Directory Certificate Services (AD CS)
 - [AndrewRathbun/DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps) - A repository of DFIR-related Mind Maps geared towards the visual learners!
@@ -3098,7 +3099,7 @@
 - [ssh-mitm/ssh-mitm](https://github.com/ssh-mitm/ssh-mitm) - SSH-MITM - ssh audits made simple
 - [scwuaptx/Pwngdb](https://github.com/scwuaptx/Pwngdb) - gdb for pwn
 - [JohnHammond/katana](https://github.com/JohnHammond/katana) - Katana - Automatic CTF Challenge Solver in Python3
-- [opencve/opencve](https://github.com/opencve/opencve) - CVE Alerting Platform
+- [opencve/opencve](https://github.com/opencve/opencve) - Open-source CVE monitoring and alerting platform
 - [aydinnyunus/Keylogger](https://github.com/aydinnyunus/Keylogger) - Get Keyboard,Mouse,ScreenShot,Microphone Inputs from Target Computer and Send to your Mail.
 - [SharonBrizinov/s3viewer](https://github.com/SharonBrizinov/s3viewer) - Storage Explorer - Publicly open storage viewer (Amazon S3 Bucket, Azure Blob, FTP server, HTTP Index Of/)
 - [bitsadmin/wesng](https://github.com/bitsadmin/wesng) - Windows Exploit Suggester - Next Generation
