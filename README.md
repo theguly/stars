@@ -120,6 +120,7 @@
 
 - [Yamato-Security/EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings) - Documentation and scripts to properly enable Windows event logs.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 - [NextronSystems/APTSimulator](https://github.com/NextronSystems/APTSimulator) - A toolset to make a system look as if it was the victim of an APT attack
 - [swagkarna/Defeat-Defender-V1.2.0](https://github.com/swagkarna/Defeat-Defender-V1.2.0) - Powerful batch script to dismantle complete windows defender protection and even bypass tamper protection ..Disable Windows-Defender Permanently....Hack windows. POC
 - [repnz/shellcode2exe](https://github.com/repnz/shellcode2exe) - Batch script to compile a binary shellcode blob into an exe file
@@ -2050,7 +2051,6 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [bohops/UltimateWDACBypassList](https://github.com/bohops/UltimateWDACBypassList) - A centralized resource for previously documented WDAC bypass techniques
 - [fr0gger/awesome-ida-x64-olly-plugin](https://github.com/fr0gger/awesome-ida-x64-olly-plugin) - A curated list of IDA x64DBG, Ghidra and OllyDBG plugins.
-- [FunnyWolf/Viper](https://github.com/FunnyWolf/Viper) - Adversary simulation and Red teaming platform with AI
 - [ionescu007/clfs-docs](https://github.com/ionescu007/clfs-docs) - Unofficial Common Log File System (CLFS) Documentation
 - [daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates](https://github.com/daem0nc0re/Abusing_Weak_ACL_on_Certificate_Templates) - Investigation about ACL abusing for Active Directory Certificate Services (AD CS)
 - [AndrewRathbun/DFIRMindMaps](https://github.com/AndrewRathbun/DFIRMindMaps) - A repository of DFIR-related Mind Maps geared towards the visual learners!
