@@ -132,6 +132,7 @@
 
 ## C 
 
+- [MatheuZSecurity/ElfDoor-gcc](https://github.com/MatheuZSecurity/ElfDoor-gcc) - ElfDoor-gcc is an LD_PRELOAD that hijacks gcc to inject malicious code into binaries during linking, without touching the source code.
 - [0xb4db01/xorvm](https://github.com/0xb4db01/xorvm) - Emulated CPU with custom ASM initially developed for XOR encryption
 - [cyberaz0r/thc-ssl-dos_mod](https://github.com/cyberaz0r/thc-ssl-dos_mod) - A fork of thc-ssl-dos that supports all SSL/TLS implementations, UDP (using DTLS), SOCKS5 proxy and both renegotiation and reconnect attacks. It also includes a docker lab to test the exploit.
 - [pr3y/Bruce](https://github.com/pr3y/Bruce) - Predatory ESP32 Firmware
