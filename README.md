@@ -226,7 +226,7 @@
 - [corellium/usbfluxd](https://github.com/corellium/usbfluxd) - Redirects the standard usbmuxd socket to allow connections to local and remote usbmuxd instances so remote devices appear connected locally.
 - [susMdT/effective-waffle](https://github.com/susMdT/effective-waffle) - yet another sleep encryption thing. also used the default github repo name for this one.
 - [samyk/magspoof](https://github.com/samyk/magspoof) - A portable device that can spoof/emulate any magnetic stripe, credit card or hotel card "wirelessly", even on standard magstripe (non-NFC/RFID) readers. It can disable Chip&PIN and predict AMEX card n
-- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Linux kernel rootkit
+- [carloslack/KoviD](https://github.com/carloslack/KoviD) - Red-Team Linux kernel rootkit
 - [radsecproxy/radsecproxy](https://github.com/radsecproxy/radsecproxy) - radsecproxy is a generic RADIUS proxy that supports both UDP and TLS (RadSec) RADIUS transports.
 - [CobaltBSD/neosurf](https://github.com/CobaltBSD/neosurf) - A NetSurf fork with various improvements
 - [sshlog/agent](https://github.com/sshlog/agent) - SSH Session Monitoring Daemon
@@ -504,7 +504,6 @@
 - [TheRomanXpl0it/binary-exploitation-intro](https://github.com/TheRomanXpl0it/binary-exploitation-intro) - A gentle introduction to binary exploitation
 - [outflanknl/Dumpert](https://github.com/outflanknl/Dumpert) - LSASS memory dumper using direct system calls and API unhooking.
 - [TheWover/donut](https://github.com/TheWover/donut) - Generates x86, x64, or AMD64+x86 position-independent shellcode that loads .NET Assemblies, PE files, and other Windows payloads from memory and runs them with parameters
-- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [TarlogicSecurity/tickey](https://github.com/TarlogicSecurity/tickey) - Tool to extract Kerberos tickets from Linux kernel keys.
 - [nongiach/sudo_inject](https://github.com/nongiach/sudo_inject) - [Linux] Two Privilege Escalation techniques abusing sudo token
 - [DimopoulosElias/alpc-mmc-uac-bypass](https://github.com/DimopoulosElias/alpc-mmc-uac-bypass) - UAC Bypass with mmc via alpc
@@ -1069,6 +1068,7 @@
 - [OmerYa/ROPInjector](https://github.com/OmerYa/ROPInjector) - Rite Of Passage ROP Injector
 - [outflanknl/Recon-AD](https://github.com/outflanknl/Recon-AD) - Recon-AD, an AD recon tool based on ADSI and reflective DLL’s
 - [WithSecureLabs/C3](https://github.com/WithSecureLabs/C3) - Custom Command and Control (C3). A framework for rapid prototyping of custom C2 channels, while still providing integration with existing offensive toolkits.
+- [nil0x42/duplicut](https://github.com/nil0x42/duplicut) - Remove duplicates from MASSIVE wordlist, without sorting it (for dictionary-based password cracking)
 - [atxsinn3r/VulnCases](https://github.com/atxsinn3r/VulnCases) - Vulnerability examples.
 - [rogue-kdc/CVE-2019-0841](https://github.com/rogue-kdc/CVE-2019-0841) - PoC code for CVE-2019-0841 Privilege Escalation vulnerability
 - [Cn33liz/TpmInitUACAnniversaryBypass](https://github.com/Cn33liz/TpmInitUACAnniversaryBypass) - Bypassing User Account Control (UAC) using TpmInit.exe
@@ -3066,7 +3066,7 @@
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, forked from mps-youtube , is a Terminal based YouTube player and downloader. No Youtube API key required.
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
-- [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - The perfect emulation setup to study and develop the Linux kernel v5.4.3, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug 
+- [cirosantilli/linux-kernel-module-cheat](https://github.com/cirosantilli/linux-kernel-module-cheat) - The perfect emulation setup to study and develop the Linux kernel, kernel modules, QEMU, gem5 and x86_64, ARMv7 and ARMv8 userland and baremetal assembly, ANSI C, C++ and POSIX. GDB step debug and KGD
 - [CyborgSecurity/PoisonApple](https://github.com/CyborgSecurity/PoisonApple) - macOS persistence tool
 - [gquere/bloodhound_linux](https://github.com/gquere/bloodhound_linux) - Ingest openldap data into bloodhound
 - [edibledinos/weevely3-stealth](https://github.com/edibledinos/weevely3-stealth) - Weevely webshell - CED edition!
@@ -3449,7 +3449,7 @@
 - [hlldz/SpookFlare](https://github.com/hlldz/SpookFlare) - Loader, dropper generator with multiple features for bypassing client-side and network-side countermeasures.
 - [initstring/passphrase-wordlist](https://github.com/initstring/passphrase-wordlist) - Passphrase wordlist and hashcat rules for offline cracking of long, complex passwords
 - [byt3bl33d3r/CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) - A swiss army knife for pentesting networks
-- [merrychap/shellen](https://github.com/merrychap/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
+- [konatabrk/shellen](https://github.com/konatabrk/shellen) - :cherry_blossom: Interactive shellcoding environment to easily craft shellcodes
 - [trustedsec/hate_crack](https://github.com/trustedsec/hate_crack) - A tool for automating cracking methodologies through Hashcat from the TrustedSec team.
 - [mhelwig/apk-anal](https://github.com/mhelwig/apk-anal) - Android APK analyzer based on radare2 and others.
 - [UnaPibaGeek/ctfr](https://github.com/UnaPibaGeek/ctfr) - Abusing Certificate Transparency logs for getting HTTPS websites subdomains.
